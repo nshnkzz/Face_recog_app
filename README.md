@@ -1,4 +1,4 @@
-# SmartBrain - v2
+# Face Recognition front-end react app
 
 
 1. Clone this repo
